@@ -19,8 +19,8 @@ Open the URL shown by Vite (normally http://localhost:5173).
   - GlobalLogic India Pvt Ltd
     - Enterprise Fashion Retail & E-Commerce Application
     - AT&T Telecom – APD / Job Assignment Module
-  - Amulya IT Solutions Pvt Ltd
     - Access MS Application
+  - CBSI India Private Limited
     - Kaiser Permanente – SCAL Medical Informatics
 - Contact
 
