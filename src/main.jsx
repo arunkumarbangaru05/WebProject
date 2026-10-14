@@ -166,7 +166,7 @@ function App() {
             <a
               href="/Resume_Arun_Kumar_updated.pdf"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Resume
             </a>
