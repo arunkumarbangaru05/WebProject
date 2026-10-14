@@ -163,7 +163,11 @@ function App() {
                 {item.label}
               </button>
             ))}
-            <a href="/resume.pdf" target="_blank" rel="noreferrer">
+            <a
+              href="/Resume_Arun_Kumar_updated.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
               Resume
             </a>
           </div>
